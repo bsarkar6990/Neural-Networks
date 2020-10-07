@@ -1,0 +1,8 @@
+﻿  HandwrittingRecognizationHW.cpp
+C:\Users\bisarkar\source\repos\HandwrittingRecognizationHW\HandwrittingRecognizationHW\HandwrittingRecognizationHW.cpp(473,27): warning C4838:  conversion from 'UINT' to 'INT' requires a narrowing conversion
+C:\Users\bisarkar\source\repos\HandwrittingRecognizationHW\HandwrittingRecognizationHW\HandwrittingRecognizationHW.cpp(473,42): warning C4838:  conversion from 'UINT' to 'INT' requires a narrowing conversion
+C:\Users\bisarkar\source\repos\HandwrittingRecognizationHW\HandwrittingRecognizationHW\HandwrittingRecognizationHW.cpp(550,29): warning C4838:  conversion from 'UINT' to 'INT' requires a narrowing conversion
+C:\Users\bisarkar\source\repos\HandwrittingRecognizationHW\HandwrittingRecognizationHW\HandwrittingRecognizationHW.cpp(550,44): warning C4838:  conversion from 'UINT' to 'INT' requires a narrowing conversion
+C:\Users\bisarkar\source\repos\HandwrittingRecognizationHW\HandwrittingRecognizationHW\HandwrittingRecognizationHW.cpp(476,15): warning C4101:  'size': unreferenced local variable
+C:\Users\bisarkar\source\repos\HandwrittingRecognizationHW\HandwrittingRecognizationHW\HandwrittingRecognizationHW.cpp(553,17): warning C4101:  'size': unreferenced local variable
+  HandwrittingRecognizationHW.vcxproj -> C:\Users\bisarkar\source\repos\HandwrittingRecognizationHW\Debug\HandwrittingRecognizationHW.exe

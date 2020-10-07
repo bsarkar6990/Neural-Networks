@@ -1,0 +1,8 @@
+﻿  NeuralNet.cpp
+C:\Users\bisarkar\source\repos\CharacterRecognizationANN\CharacterRecognizationANN\NeuralNet.cpp(152,12): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\bisarkar\source\repos\CharacterRecognizationANN\CharacterRecognizationANN\NeuralNet.cpp(166,35): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bisarkar\source\repos\CharacterRecognizationANN\CharacterRecognizationANN\NeuralNet.cpp(284,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\bisarkar\source\repos\CharacterRecognizationANN\CharacterRecognizationANN\NeuralNet.cpp(285,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\bisarkar\source\repos\CharacterRecognizationANN\CharacterRecognizationANN\NeuralNet.cpp(286,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\bisarkar\source\repos\CharacterRecognizationANN\CharacterRecognizationANN\NeuralNet.cpp(328,19): warning C4189:  'b': local variable is initialized but not referenced
+  CharacterRecognizationANN.vcxproj -> C:\Users\bisarkar\source\repos\CharacterRecognizationANN\Debug\CharacterRecognizationANN.exe
