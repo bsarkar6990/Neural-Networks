@@ -1,0 +1,4 @@
+﻿  NNBinaryDecoder.cpp
+C:\Users\bisarkar\source\repos\NNBinaryDecoder\NNBinaryDecoder\NNBinaryDecoder.cpp(9,20): warning C4244:  'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\bisarkar\source\repos\NNBinaryDecoder\NNBinaryDecoder\NNBinaryDecoder.cpp(11,44): warning C4101:  'tnet': unreferenced local variable
+  NNBinaryDecoder.vcxproj -> C:\Users\bisarkar\source\repos\NNBinaryDecoder\Debug\NNBinaryDecoder.exe
